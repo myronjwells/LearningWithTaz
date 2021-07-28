@@ -1,3 +1,4 @@
+
 # LearningWithTaz
 One of a few practice apps I made when I first started my iOS Development learning journey
 
@@ -7,3 +8,5 @@ Below are some screenshots of some of the things in the app:
 
 ![Simulator Screen Shot - iPod touch (7th generation) - 2021-07-27 at 21 04 25](https://user-images.githubusercontent.com/36911172/127249271-bdd9716c-9ca4-4126-a4de-8768abf6be69.png)
 ![Simulator Screen Shot - iPod touch (7th generation) - 2021-07-27 at 21 07 26](https://user-images.githubusercontent.com/36911172/127249273-eee5ca68-fc3c-43d2-8044-971e6bac8551.png)
+![Simulator Screen Shot - iPod touch (7th generation) - 2021-07-27 at 21 07 57](https://user-images.githubusercontent.com/36911172/127249378-9987eae0-70d6-4d0d-8e55-5129708d95c4.png)
+![Uploading Simulator Screen Shot - iPod touch (7th generation) - 2021-07-27 at 21.08.26.png…]()
